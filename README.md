@@ -1,9 +1,8 @@
 # Liferay 7 Twitter Login
 This plugin enables user to login using Twitter account. Upon enabling this plugin using belong given steps, Twitter login option is shown on Liferay's login screen.
 
-## Environment
-1. Liferay 7.0 + DXP, Liferay 7.1 + DXP, Liferay 7.0 CE-GA5 +, Liferay 7.1 CE-GA2 +
-2. MySQL 5.7 +
+## Supported Environment
+Liferay 7.0 + DXP, Liferay 7.1 + DXP, Liferay 7.0 CE-GA5 +, Liferay 7.1 CE-GA2 +
 
 ## How to use
 1. Download and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
