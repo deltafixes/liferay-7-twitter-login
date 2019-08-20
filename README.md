@@ -1,12 +1,12 @@
 # Liferay 7 Twitter Login
 This plugin enables user to login using Twitter account. Upon enabling this plugin using belong given steps, Twitter login option is shown on Liferay's login screen.
 
-## Supported Environment
+## Supported Environments
 Liferay 7.0 + DXP, Liferay 7.1 + DXP, Liferay 7.0 CE-GA5 +, Liferay 7.1 CE-GA2 +
 
 ## How to use
 1. Download and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
-2. Create Twitter application in Twitter developer [link](https://docs.wpwebelite.com/social-network-integration/twitter/ "Twitter Application")
+2. Create Twitter application in Twitter developer by following given [steps](https://docs.wpwebelite.com/social-network-integration/twitter/ "Twitter Application")
 3. Set Twitter authentication credential (Control Panel &rarr; Instance Settings &rarr; Authentication &rarr; Twitter) same as Twitter application.
 ![twitter_credential_instance_setting](https://user-images.githubusercontent.com/27973508/63253225-0d413580-c28f-11e9-990a-c5cddc9e12c0.jpg)
  - **Imporant Notes**
