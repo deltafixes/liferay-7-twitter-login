@@ -19,5 +19,3 @@ This plugin enables user to login using Twitter account. Upon enabling this plug
 5. After enabling this plugin user can see Login with Linkedin option on Liferay's login page.
 ![twitter_login_liferay](https://user-images.githubusercontent.com/27973508/63253460-8c366e00-c28f-11e9-8970-d158a569c53f.jpg)
 ![twitter_login_web](https://user-images.githubusercontent.com/27973508/63253528-a708e280-c28f-11e9-99f8-ac0a7b0e2159.JPG)
-
-Note : Please make sure SMTP settings are in place, it will be used to send recovery code in case user lost QR/Bar code. 
