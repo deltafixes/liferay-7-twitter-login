@@ -2,11 +2,10 @@
 This plugin enables user to login using Twitter account. Upon enabling this plugin using belong given steps, Twitter login option is shown on Liferay's login screen.
 
 ## Supported Environments
-1. Liferay CE Portal 7.0 GA5
+1. Liferay CE Portal 7.0 GA5+
 2. Liferay DXP 7.0
-3. Liferay CE Portal 7.1 GA2
-4. Liferay CE Portal 7.1 GA3
-5. Liferay DXP 7.1
+3. Liferay CE Portal 7.1 GA2 +
+4. Liferay DXP 7.1
 
 ## How to use
 1. Download and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
@@ -20,3 +19,5 @@ This plugin enables user to login using Twitter account. Upon enabling this plug
 5. After enabling this plugin user can see Login with Linkedin option on Liferay's login page.
 ![twitter_login_liferay](https://user-images.githubusercontent.com/27973508/63253460-8c366e00-c28f-11e9-8970-d158a569c53f.jpg)
 ![twitter_login_web](https://user-images.githubusercontent.com/27973508/63253528-a708e280-c28f-11e9-99f8-ac0a7b0e2159.JPG)
+
+Note : Please make sure SMTP settings are in place, it will be used to send recovery code in case user lost QR/Bar code. 
