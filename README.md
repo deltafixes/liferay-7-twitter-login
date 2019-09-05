@@ -15,7 +15,7 @@ This plugin enables user to login using Twitter account. Upon enabling this plug
  - **Imporant Notes**
     - Callback URL  is same as Twitter application Callback URL.
     
-4. You can test Twitter Keys.
+4. You can test Twitter Keys using "Test Twitter Configuration" button as shown in below screen.
 ![02_test_configuration](https://user-images.githubusercontent.com/27973508/64313206-957e4500-cfc8-11e9-8b22-abe0ca54a5f0.png)
 ![03_test_configuration](https://user-images.githubusercontent.com/27973508/64313204-94e5ae80-cfc8-11e9-99d4-5631e1160192.png)
 5. You can enable/disable this plugin using below screen.
