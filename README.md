@@ -8,7 +8,7 @@ This plugin enables user to login using Twitter account. Upon enabling this plug
 4. Liferay DXP 7.1
 
 ## How to use
-1. Download and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
+1. [Download](https://web.liferay.com/marketplace/-/mp/application/169228403) and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
 2. Create Twitter application in Twitter developer by following given [steps](https://docs.wpwebelite.com/social-network-integration/twitter/ "Twitter Application")
 3. Set Twitter authentication credential (Control Panel &rarr; Instance Settings &rarr; Authentication &rarr; Twitter) same as Twitter application.
 ![01_instance_all](https://user-images.githubusercontent.com/27973508/64313205-957e4500-cfc8-11e9-8727-acb4f921fd12.png)
