@@ -10,8 +10,13 @@ This plugin enables user to login using Twitter account. Upon enabling this plug
 ## How to use
 1. [Download](https://web.liferay.com/marketplace/-/mp/application/169228403) and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
 2. Create Twitter application in Twitter developer by following given [steps](https://docs.wpwebelite.com/social-network-integration/twitter/ "Twitter Application")
-3. Set Twitter authentication credential (Control Panel &rarr; Instance Settings &rarr; Authentication &rarr; Twitter) same as Twitter application.
+3. Set Twitter authentication credential for Liferay 7.0 and 7.1 (Control Panel &rarr; Instance Settings &rarr; Authentication &rarr; Twitter) same as Twitter application.
 ![01_instance_all](https://user-images.githubusercontent.com/27973508/64313205-957e4500-cfc8-11e9-8727-acb4f921fd12.png)
+
+For Liferay 7.2 goto Control Panel &rarr; Configuration &rarr; Instance Settings &rarr; SSO and then goto Twitter to set keys and callback URLs as shown in below screenshots
+![instance_settings](https://user-images.githubusercontent.com/24852574/72781236-cfce4300-3c46-11ea-83a2-4496e7c81112.png)
+![twitter_authentication](https://user-images.githubusercontent.com/24852574/72781240-d2c93380-3c46-11ea-9b89-ca908ec48b21.png)
+
  - **Imporant Notes**
     - Callback URL  is same as Twitter application Callback URL.
     
