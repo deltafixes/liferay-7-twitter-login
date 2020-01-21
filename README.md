@@ -6,6 +6,9 @@ This plugin enables user to login using Twitter account. Upon enabling this plug
 2. Liferay DXP 7.0
 3. Liferay CE Portal 7.1 GA2 +
 4. Liferay DXP 7.1
+5. Liferay CE Portal 7.1 GA1+
+6. Liferay DXP 7.2
+
 
 ## How to use
 1. [Download](https://web.liferay.com/marketplace/-/mp/application/169228403) and install Twitter plugin on your server. Make sure plugin is properly deployed on server.
